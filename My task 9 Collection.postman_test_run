@@ -1,0 +1,339 @@
+{
+	"id": "8d349492-c0c0-4ba7-9575-d389f80c2656",
+	"name": "MyTutorCollection",
+	"timestamp": "2023-03-08T22:29:43.815Z",
+	"collection_id": "25897583-52d30efe-009c-424c-936f-18222109a90a",
+	"folder_id": 0,
+	"environment_id": "25897583-830b223a-dc29-4189-b947-b42438cb6b41",
+	"totalPass": 6,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-03-08T22:29:26.472Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "c5de348d-49a6-4afc-9795-8177c61ea26d",
+			"name": "example.com",
+			"url": "https://www.getpostman.com",
+			"time": 244,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 2,
+					"fail": 0
+				}
+			},
+			"times": [
+				269,
+				244
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "8fb82202-bbcc-4771-85d1-fb990004cc8e",
+			"name": "Postman Logo",
+			"url": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"time": 259,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				270,
+				259
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "04ad79ad-f780-4aa6-a2bd-82e45ebb51bc",
+			"name": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"url": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"time": 356,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				305,
+				356
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "f0a03496-bdaf-4792-92a1-74a917bc9f08",
+			"name": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"url": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"time": 282,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				270,
+				282
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "c0be6b09-f431-4ee9-9fd6-f3a0ed4cbdc9",
+			"name": "https://api.getpostman.com/collections/47d18cb4-485f-4e02-b4e3-fd1a1c033833?apikey=1df3dbbf91dd4da5ae640ca98e4f8585",
+			"url": "https://www.getpostman.com/collections/47d18cb4-485f-4e02-b4e3-fd1a1c033833?apikey=1df3dbbf91dd4da5ae640ca98e4f8585",
+			"time": 636,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				601,
+				636
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "6f138d21-3427-4eda-823e-d784d122781f",
+			"name": "example.com with POST",
+			"url": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"time": 276,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				286,
+				276
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "7d6256fb-c601-411f-83ad-3fe107c78f58",
+			"name": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"url": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"time": 287,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				284,
+				287
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "e87ad63f-ea8e-4cd4-8b57-228c8bc6d99e",
+			"name": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"url": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"time": 441,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				298,
+				441
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "1611889a-711c-42e0-89e7-95e6c2c7427f",
+			"name": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"url": "https://www.getpostman.com/img/v2/logo-glyph.png",
+			"time": 346,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				275,
+				346
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "9f90c355-5f28-4fa1-87dd-aa14584a159e",
+			"name": "Testing",
+			"url": "https://www.getpostman.com/1/boards/?name=Ibironke Board (2)&key=cb4b4021f8d3faa976f51fbfd3a31246&token=e0ac336a8fd917ee73aaa3f315a799be0a03959088132df90511108e92ba58c9&defaultLists=false",
+			"time": 342,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Board name should be: 'Ibironke Board (2)'": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 2,
+					"fail": 0
+				},
+				"Board name should be: 'Ibironke Board (2)'": {
+					"pass": 2,
+					"fail": 0
+				}
+			},
+			"times": [
+				304,
+				342
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Board name should be: 'Ibironke Board (2)'": true
+				},
+				{
+					"Status code is 200": true,
+					"Board name should be: 'Ibironke Board (2)'": true
+				}
+			]
+		},
+		{
+			"id": "18884690-ac52-4b5c-8071-8f5746e58abc",
+			"name": "Cottytalk Demo 1",
+			"url": "https://www.getpostman.com/1/cards/5ad9ff5e43d49ec760adbdc5?key={{API_key}}&token={{API_token}}",
+			"time": 266,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				324,
+				266
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "c0d8b4f1-ed37-4fbc-b16d-46bdbb4cab8c",
+			"name": "My assignment",
+			"url": "https://www.getpostman.com/svc/books/v3/lists.json?list=hardcover-nonfiction&published-date=2018-04-22&rank-last-week=4&rank=1",
+			"time": 267,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				248,
+				267
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		}
+	],
+	"count": 2,
+	"totalTime": 7736,
+	"collection": {
+		"requests": [
+			{
+				"id": "c5de348d-49a6-4afc-9795-8177c61ea26d",
+				"method": "GET"
+			},
+			{
+				"id": "8fb82202-bbcc-4771-85d1-fb990004cc8e",
+				"method": "GET"
+			},
+			{
+				"id": "04ad79ad-f780-4aa6-a2bd-82e45ebb51bc",
+				"method": "GET"
+			},
+			{
+				"id": "f0a03496-bdaf-4792-92a1-74a917bc9f08",
+				"method": "GET"
+			},
+			{
+				"id": "c0be6b09-f431-4ee9-9fd6-f3a0ed4cbdc9",
+				"method": "GET"
+			},
+			{
+				"id": "6f138d21-3427-4eda-823e-d784d122781f",
+				"method": "POST"
+			},
+			{
+				"id": "7d6256fb-c601-411f-83ad-3fe107c78f58",
+				"method": "POST"
+			},
+			{
+				"id": "e87ad63f-ea8e-4cd4-8b57-228c8bc6d99e",
+				"method": "POST"
+			},
+			{
+				"id": "1611889a-711c-42e0-89e7-95e6c2c7427f",
+				"method": "POST"
+			},
+			{
+				"id": "9f90c355-5f28-4fa1-87dd-aa14584a159e",
+				"method": "POST"
+			},
+			{
+				"id": "18884690-ac52-4b5c-8071-8f5746e58abc",
+				"method": "GET"
+			},
+			{
+				"id": "c0d8b4f1-ed37-4fbc-b16d-46bdbb4cab8c",
+				"method": "GET"
+			}
+		]
+	}
+}
